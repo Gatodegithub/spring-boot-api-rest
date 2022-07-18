@@ -6,9 +6,7 @@ target/
 
 ## Maven:
 /.mvn/
-/mvnw
 /mvnw.bat
-mvnw.cmd
 /log/
 *.log*
 pom.xml.tag
